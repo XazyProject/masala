@@ -12,7 +12,7 @@
 
 CSS შედგება ბევრი წესისგან. ეს წესები ძირითადად შეიქმნა სელექთორებისთვის (selectors - მოგვიანებით განვიხილავთ).
 
-ფოტო 00
+![css syntax](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/css_shesavali-imgs/00.jpg?token=GHSAT0AAAAAACMIWC6C5CF2UJZBJ76RMK2SZMYNEYQ)
 
 <div className="lesson-note">
 
