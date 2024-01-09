@@ -411,13 +411,14 @@ p {
 
 <div className="homework">
 
-გადადით ჩვენს CSS დავალებების რეპოზიტორში და წაიკითხეთ README. შემდეგ, როდესაც გაეცნობით, როგორ გამოიყენოთ ეს დავალებები, გადადით `fundamentalebi` ფოლდერში. განიხილეთ თითოეული README ფაილი, სანამ დაიწყებთ ამ დავალებების გაკეთებას ამ თანმიმდევრობით:
+გადადით [ჩვენს CSS დავალებების რეპოზიტორში](https://github.com/XazyProject/css-davalebebi) და წაიკითხეთ README. შემდეგ, როდესაც გაეცნობით, როგორ გამოიყენოთ ეს დავალებები, გადადით `fundamentalebi` ფოლდერში. განიხილეთ თითოეული README ფაილი, სანამ დაიწყებთ ამ დავალებების გაკეთებას ამ თანმიმდევრობით:
 
 - `01-css-metodebi`
 - `02-class-id-seleqtorebi`
 - `03-jgufuri-seleqtorebi`
 - `04-jachvuri-seleqtorebi`
-- `05-descendant-combinator`
+- `05-shtamomavluri-kombinatori`
+- `06-kaskadis-gasworeba`
 
 შენიშვნა: ამ დავალებების ამოხსნები შეგიძლიათ იპოვოთ `amoxsna` ფოლდერში, რომელიც თითოეულ სავარჯიშოშია.
 
