@@ -41,7 +41,7 @@
 <ol>
     <li className="pirveli">დამადე წითელი ფერი</li>
     <li className="meore">გამიზარდე ფონტის ზომა</li>
-    <li className="mesame">ფონი მინდა შავი და ფერი თეთრი</li>
+    <li className="mesame">ფონი მინდა შავი და ფერი ყვითელი</li>
 </ol>
 
 </div>
