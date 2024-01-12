@@ -14,7 +14,7 @@
 
 CSS შედგება ბევრი წესისგან. ეს წესები ძირითადად შეიქმნა სელექთორებისთვის (selectors - მოგვიანებით განვიხილავთ).
 
-![css syntax](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/css_shesavali-imgs/00.jpg)
+![css syntax](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/css_shesavali-imgs/00.jpg?token=GHSAT0AAAAAACMIWC6CLCEAQPNAZYRIQ26OZNBP3FQ)
 
 <div className="lesson-note">
 
@@ -311,7 +311,7 @@ p {
 
 პირველ რიგში განვიხილოთ გუგლიდან ფონტის დამატება. მოძებნეთ ნებისმიერი ფონტი საიტზე, მაგალითად ძიებაში ჩაწერეთ `Open Sans` და შედით მის გვერდზე. აქ გამოჩნდება ამ ფონტის ბევრნაირი სტილი, დახრილი, სქელი (რამდენიმე დონის სისქე) და ა.შ. თქვენ უნდა აირჩიოთ ის ზომები, რომლებიც მოგეწონებათ.
 
-![googlefonts](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/css_shesavali-imgs/01.jpg)
+![googlefonts](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/css_shesavali-imgs/01.jpg?token=GHSAT0AAAAAACMIWC6DHPTJMK3TGWH5F5SOZNBP3RA)
 
 ახლა დააკოპირეთ HTML-ში ჩასასმელი `<link>` თეგი და ჩასვით HTML ფაილში, `<head>` ნაწილში:
 
