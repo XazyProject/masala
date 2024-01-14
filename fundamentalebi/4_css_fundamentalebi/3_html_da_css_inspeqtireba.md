@@ -19,11 +19,11 @@
 
 ელემენტების გამყოფილებაში თქვენ დაინახავთ მთლიან HTML-ს სტრუქტურას, რაც ამ გვერდზეა. შეგიძლიათ დააწვეთ ნებისმიერ ელემენტს ამ სტრუქტურაში და აირევთ მას. 
 
-![inspeqti](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/html_da_css_inspeqtireba-imgs/01.png?token=GHSAT0AAAAAACMIWC6C4PUYBS4523MVAYO6ZNBSS6A)
+![inspeqti](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/html_da_css_inspeqtireba-imgs/01.png)
 
 როდესაც ელემენტი მონიშნულია, Styles ტაბი, რომელიც მარჯვენა მხარესაა, გვაჩვენებს ყველა ამ ელემენტის სტილს, ასევე სტილებს, რომლებიც სხვა სტილმა გადააწერა ზევიდან (გადახაზული ელემენტები). მაგალითად:
 
-![stilebi](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/html_da_css_inspeqtireba-imgs/02.png?token=GHSAT0AAAAAACMIWC6CVCPIUYQJFHCQQIF6ZNBSTEQ)
+![stilebi](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/html_da_css_inspeqtireba-imgs/02.png)
 
 
 # სტილების გატესტვა ინსპექტორში

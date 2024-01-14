@@ -23,15 +23,15 @@
 /* ამით ყველაფერს დაედება წითელი საზღვრები. */
 ```
 
-![boxmodel](xazy.ge)
+![boxmodel](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/box_model-imgs/00.png)
 
 ეს შეგიძლიათ სცადოთ ნებისმიერ საიტზე და ნახავთ რამდენი ბოქსია გამოყენებული.
 
-![site-example](xazy.ge)
+![site-example](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/box_model-imgs/01.png)
 
 ამ ყუთების ზომის მანიპულაცია ბევრნაირად შეიძლება, რომლებსაც აუცილებლად ვისწავლით, ამ გაკვეთილში კი შევეხებით მათ შორის დაშორებებს, `padding`, `margin` და `border`-ის დახმარებით.
 
-![marginpaddingborder](xazy.ge)
+![marginpaddingborder](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/box_model-imgs/02.png)
 
 - `padding` ზრდის სივრცეს ამ ყუთის საზღვრიდან, ანუ ჩარჩოდან, ამ ყუთში არსებულ კონტენტამდე, იქნება ეს ტექსტი, ფოტო თუ ა.შ. წარმოიდგინეთ გაქვთ ნახატი ჩარჩოში, რათქმაუნდა თქვენ არ გინდათ ამ ნახატს მოკიდოთ ხელი და თქვენ აკეთებთ დაშორებას ჩარჩოდან ნახატამდე, სწორედ ეს სივრცეა `padding`.
 
