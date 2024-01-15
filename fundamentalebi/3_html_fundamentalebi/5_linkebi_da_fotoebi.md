@@ -152,9 +152,9 @@ Absolute და relative ლინკები, ცოტათი გაუგ�
 
 მაგალითისთვის, absolute გზით გვერდზე შეგვიძლია გამოვიყენოთ ხაზის საიტზე არსებული ფოტო:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="ExMKYJm" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/ExMKYJm">
-  absolute-path-image</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="ExMKYJm" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/ExMKYJm">
+  absolute-path-image</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -204,9 +204,9 @@ Absolute და relative ლინკები, ცოტათი გაუგ�
 
 ასე გამოიყურება ხაზის ლოგოს მაგალითი, ოღონდ `alt`-ის დამატებით:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="YzgqzXJ" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/YzgqzXJ">
-  image-alt-attribute</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="YzgqzXJ" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/YzgqzXJ">
+  image-alt-attribute</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -221,9 +221,9 @@ Absolute და relative ლინკები, ცოტათი გაუგ�
 
 ეს არის ხაზის ლოგოს მაგალითი სიმაღლისა და სიგანის გამოყენებით:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="gOErOPy" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/gOErOPy">
-  image-height-and-with-attributes</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="gOErOPy" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/gOErOPy">
+  image-height-and-with-attributes</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

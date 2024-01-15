@@ -10,9 +10,9 @@
 
 ამ სიაში ყველა იწყება წერტილით:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="ExMVxgd" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/ExMVxgd">
-  html-unordered-list</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="ExMVxgd" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/ExMVxgd">
+  html-unordered-list</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -23,9 +23,9 @@
 დანომრილი სია კეთდება `<ol>` ელემენტით, ამით სიას ვეუბნებით,  რომ დანომრილია, ხოლო ამ ელემენტის შვილი ელემენტი იქნება `<li>` რომელშიც უკვე სიას ვწერთ.
 აქ წერტილების ნაცვლად შევხვდებით ციფრებს:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="oNVjNzR" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/oNVjNzR">
-  html_ordered_list</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="oNVjNzR" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/oNVjNzR">
+  html_ordered_list</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -34,9 +34,9 @@
 
 ასევე შეგიძლიათ ორივე ერთად გამოიყენოთ და თითოეული სიის ნაწილი უფრო დეტალურად ჩაშალოთ:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="WNmQNoj" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/WNmQNoj">
-  ordered and unordered</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="WNmQNoj" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/WNmQNoj">
+  ordered and unordered</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

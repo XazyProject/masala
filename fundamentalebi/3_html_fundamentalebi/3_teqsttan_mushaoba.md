@@ -20,9 +20,9 @@
 
 როგორც ხედავთ ეს არის ორი პარაგრაფი და თქვენც ელოდებით ასე ჩატვირთვას, მაგრამ ეს ასე არ მოხდება და ტექსტი ჩაიტვირთება ასე:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="wvOKvKW" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/wvOKvKW">
-  html_chonchxi_1</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="wvOKvKW" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/wvOKvKW">
+  html_chonchxi_1</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -31,9 +31,9 @@
 
 ახლა შეგვიძლია დავამატოთ პარაგრაფის თეგი და ვნახოთ როგორ ჩაიტვირთება:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="LYapYGa" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/LYapYGa">
-  html_2</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="LYapYGa" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/LYapYGa">
+  paragraphs-example</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -45,9 +45,9 @@
 არის 6 სახის სათაური, რომელიც იწყება `<h1>` დან `<h6>` ის ჩათვლით. თითო ციფრი აღნიშნავს სათაურის ზომას. ყველაზე დიდი და მნიშვნელოვანი არის `h1`, ხოლო `h6` არის ყველაზე პატარა სათაური.
 როგორც პარაგრაფი, სათაურიც მსგავსად იწერება, მაგალითად ჩვენი სათაურის დასამატებლად შემოვარტყათ `<h1>` თეგი.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="gOEaOra" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/gOEaOra">
-  Untitled</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="gOEaOra" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/gOEaOra">
+  heading-example</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -56,9 +56,9 @@
 
 `<strong>` ელემენტი ასქელებს ტექსტს, ასევე ამ ტექსტს ხდის მნიშვნელოვანს სემანტიკურად. ამ ელემენტის გამოსაყენებლად ვარტყავთ ტექსტსს ამ ელემენტს.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="XWGmWdY" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/XWGmWdY">
-  html_4</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="XWGmWdY" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/XWGmWdY">
+  strong example</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -71,18 +71,18 @@
 
 `<em>` ელემენტი ხდის ტექსტს დახრილს, ანუ italic-ს. ასევე სემანტიკურად ამ ტექსტსაც აქცენტი ენიჭება, რომელიც ეკრანის წამკითხელებისთვისაა. ამ ელემენტის გამოსაყენებლად ვარტყავთ ტექსტსს.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="qBvOBZg" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/qBvOBZg">
-  html_5</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="XWGmWdY" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/XWGmWdY">
+  strong example</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 როგორც strong, ამის გამოყენება სხვა ტექსტური ელემენტის შიგნითაც შეიძლება.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="mdoedEy" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/mdoedEy">
-  html_6</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="mdoedEy" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/mdoedEy">
+  em in p example</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -95,9 +95,9 @@
 
 ამ მაგალითში body ელემენტი არის მშობელი, ხოლო პარაგრაფ ელემენტი - შვილი.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="WNmQNxp" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/WNmQNxp">
-  html7</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="WNmQNxp" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/WNmQNxp">
+  child example</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -107,9 +107,9 @@
 
 ამ კოდში, ორი პარაგრაფი არის სიბლინგი, რადგან ისინი ორივე ერთი მშობლის, ამ შემთხვევაში body-ს შვილები არიან და დგანან „ბუდის“ ერთ დონეზე.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="eYXpYzM" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/eYXpYzM">
-  html8</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="eYXpYzM" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/eYXpYzM">
+  sibling example</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -131,9 +131,9 @@ HTML კომენტარები არ არის ხილული �
 
 HTML კომენტარის დაწერა ადვილია, უნდა ჩავწეროთ რისი კომენტარიც გვინდა `<!--`  და `-->` ტაგებს შორის, მათ შორის შეგვიძლია კოდის დაკომენტარებაც.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="YzgyzWm" data-user="proeqti-yvelastvis" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/proeqti-yvelastvis/pen/YzgyzWm">
-  html8</a> by proeqti yvelastvis (<a href="https://codepen.io/proeqti-yvelastvis">@proeqti-yvelastvis</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="YzgyzWm" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/xazy/pen/YzgyzWm">
+  html-comments</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
