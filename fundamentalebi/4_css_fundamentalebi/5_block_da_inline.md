@@ -26,12 +26,11 @@ Inline-block ელემენტები ისე იქცევიან, 
 
 `none` არის display-ს ერთ-ერთი მნიშვნელობა. `display: none;`-ს დადების დროს ეს ელემენტი აღარ გამოჩნდება საიტზე, არც ადგილს დაიკავებს, ის უბრალოდ სიცარიელეში დაიკარგება.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="gOELVvJ" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/gOELVvJ">
-  inline-block-inline-block</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<iframe height="300" style="width: 100%;" scrolling="no" title="inline-block-inline-block-none" src="https://codepen.io/xazy/embed/gOELVvJ?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/gOELVvJ">
+  inline-block-inline-block-none</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 # Div და span
 
@@ -45,21 +44,19 @@ div ბლოკ ელემენტია, მაგრამ ასეთი
 
 div-ით ასევე ადვილია საიტი დავყოთ სექციებად, რომლის მართვაც უფრო მარტივი იქნება და ასევე კოდის წაკითხვაც გამარტივდება.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="OJqbKqP" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/OJqbKqP">
+<iframe height="300" style="width: 100%;" scrolling="no" title="divs" src="https://codepen.io/xazy/embed/OJqbKqP?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/OJqbKqP">
   divs</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 `<span>` არის inline თეგი, რომელიც ტექსტის რაიმე ნაწილის გამოსაყოფად და მის გასასტილად გამოიყენება. `<span>` ელემენტი მსგავსია `<div>` ელემენტის, მაგრამ ეს ინლაინია, ხოლო დივი ბლოკი.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="NWJdWKY" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/NWJdWKY">
+<iframe height="300" style="width: 100%;" scrolling="no" title="inline" src="https://codepen.io/xazy/embed/NWJdWKY?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/NWJdWKY">
   inline</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 წინა გაკვეთილში ვისწავლეთ margin და padding. იმისათვის, რომ რაიმე ელემენტი, მაგალითად div ვებგვერდის ცენტრში დავაყენოთ, შეგვიძლია გამოვიყენოთ margin. როგორც დავინახეთ div მთლიანი საიტის სიგანეზე ჯდება, ხოლო თუ მას რაიმე სიგანეს, ანუ `width`-ს მივანიჭებთ და მოგვინდება მისი ცენტრში მოთავსება, ვუწერთ ასე:
 

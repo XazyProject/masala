@@ -152,12 +152,11 @@ Absolute და relative ლინკები, ცოტათი გაუგ�
 
 მაგალითისთვის, absolute გზით გვერდზე შეგვიძლია გამოვიყენოთ ხაზის საიტზე არსებული ფოტო:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="ExMKYJm" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/ExMKYJm">
+<iframe height="300" style="width: 100%;" scrolling="no" title="absolute-path-image" src="https://codepen.io/xazy/embed/ExMKYJm?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/ExMKYJm">
   absolute-path-image</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 1. სამუშაო ფოლდერში შევქმნათ ახალი ფოლდერი სახელად `images`.
 2. ჩავიწეროთ [ეს ფოტო](https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=charlesdeluvio-Mv9hjnEUHR4-unsplash.jpg&w=640) და ჩააგდეთ ჩვენს შექმნილ `images` ფოლდერში.
@@ -204,12 +203,11 @@ Absolute და relative ლინკები, ცოტათი გაუგ�
 
 ასე გამოიყურება ხაზის ლოგოს მაგალითი, ოღონდ `alt`-ის დამატებით:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="YzgqzXJ" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/YzgqzXJ">
+<iframe height="300" style="width: 100%;" scrolling="no" title="image-alt-attribute" src="https://codepen.io/xazy/embed/YzgqzXJ?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/YzgqzXJ">
   image-alt-attribute</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 გავარჯიშებისთვის, დაამატეთ `alt` ატრიბუტი ძაღლის ფოტოს, რომელიც უკვე გამოვიყენეთ.
 
@@ -221,12 +219,11 @@ Absolute და relative ლინკები, ცოტათი გაუგ�
 
 ეს არის ხაზის ლოგოს მაგალითი სიმაღლისა და სიგანის გამოყენებით:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="gOErOPy" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/gOErOPy">
+<iframe height="300" style="width: 100%;" scrolling="no" title="image-height-and-with-attributes" src="https://codepen.io/xazy/embed/gOErOPy?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/gOErOPy">
   image-height-and-with-attributes</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 
 ახლა მიუთითეთ თქენს მიერ ჩასმულ ძაღლის ფოტოს სიმაღლე და სიგანე.

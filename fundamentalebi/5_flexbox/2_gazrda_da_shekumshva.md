@@ -49,12 +49,11 @@ div {
 
 ამ მაგალითში `flex`-ს აქვს მითითებული `flex-shrink`-ის და `flex-basis`-ის მნიშვნელობები.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="WNmRZMO" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/WNmRZMO">
+<iframe height="300" style="width: 100%;" scrolling="no" title="flex-grow-example" src="https://codepen.io/xazy/embed/WNmRZMO?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/WNmRZMO">
   flex-grow-example</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 მოცემულ მაგალითში გვაქვს სამი დივი, პირველს და მესამეს აქვს `flex: 1`, ხოლო მეორეს აქვს `flex: 2`. ჯამში გამოდის ოთხი, ანუ იყოფა ოთხ ნაწილად და ნაწილდება ისე, როგორც მითითებულია, ანუ პირველ და მესამე ნაწილს შეხვდებათ ოთხი ნაწილიდან 1-1, ხოლო მეორე დივს შეხვდება ოთხი ნაწილიდან ორი.
 
@@ -66,12 +65,11 @@ div {
 
 აი იხილეთ მაგალითი. გაითვალისწინეთ, რომ ჩვენ შევუცვალეთ `flex-basis` რის მიზეზსაც მალე ავხსნით. თუ თქვენს ბრაუზერს დააპატარავებთ, შეამჩნევთ, რომ `.two` არ შეიკუმშება იმაზე 250 პიქსელზე მეტად, რადგან ასე აქვს გაწერილი, მიუხედავად იმისა, რომ `flex-grow` ეუბნება ყველა ელემენტს ერთნაირი ზომა უნდა ჰქონდეს.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="KKEayxY" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/KKEayxY">
+<iframe height="300" style="width: 100%;" scrolling="no" title="flex-shrink example" src="https://codepen.io/xazy/embed/KKEayxY?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/KKEayxY">
   flex-shrink example</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 როდესაც მიუთითებთ `flex-grow`-ს ან `flex-shrink`-ს, ფლექს აითემები დიდად არ გაითვალისწინებენ თქვენს მიერ გაწერილ `width`-ის მნიშვნელობას. ზედა მაგალითში სამივე დივს ჰქონდა 250 პიქსელი სიგანე, მაგრამ როდესაც მათი მშობელი ელემენტი დიდია, ისინი იზრდებიან, რათა შეავსონ ადგილი. იგივენაირადაა, როცა მშობელი ზედმეტად პატარაა, ისინი შეიკუმშებიან რომ ჩაეტიონ. 
 

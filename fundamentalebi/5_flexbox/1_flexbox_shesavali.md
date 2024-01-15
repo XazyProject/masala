@@ -19,12 +19,11 @@
 
 ფლექსბოქსი ქართულად რომ გადავთარგმნოთ იქნება მოქნილი ყუთი/კონტეინერი და სწორედ ასეცაა. ვისწავლით როგორ გავხადოთ ეს ყუთები მოქნილი, ვამოძრაოთ, მივუთითოთ განლაგება და ა.შ. ფლექსბოქსი არის გზა, რომლითაც შეგვიძლია განვალაგოთ ელემენტები მწკრივში ან სვეტში.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="GRermVr" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/GRermVr">
+<iframe height="300" style="width: 100%;" scrolling="no" title="first flex example" src="https://codepen.io/xazy/embed/GRermVr?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/GRermVr">
   first flex example</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ცოტახანში ვისწავლით რა ხდება აქ, მაგრამ ახლა, ზედა კოდში გადადით CSS სექციაში და დაკომენტარებულ სტილებს (`display: flex;` და `flex:1`) წაუშალეთ კომენტარები ამათი წაშლით: `/*` და `*/`. დააკვირდით შედეგს, რა შეიცვალა?
 

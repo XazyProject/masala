@@ -10,12 +10,11 @@
 
 ამ სიაში ყველა იწყება წერტილით:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="ExMVxgd" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/ExMVxgd">
+<iframe height="300" style="width: 100%;" scrolling="no" title="html-unordered-list" src="https://codepen.io/xazy/embed/ExMVxgd?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/ExMVxgd">
   html-unordered-list</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 # დანომრილი სია, ანუ Ordered lists
 
@@ -23,23 +22,21 @@
 დანომრილი სია კეთდება `<ol>` ელემენტით, ამით სიას ვეუბნებით,  რომ დანომრილია, ხოლო ამ ელემენტის შვილი ელემენტი იქნება `<li>` რომელშიც უკვე სიას ვწერთ.
 აქ წერტილების ნაცვლად შევხვდებით ციფრებს:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="oNVjNzR" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/oNVjNzR">
+<iframe height="300" style="width: 100%;" scrolling="no" title="html_ordered_list" src="https://codepen.io/xazy/embed/oNVjNzR?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/oNVjNzR">
   html_ordered_list</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 # ორივეს ერთად გამოყენება
 
 ასევე შეგიძლიათ ორივე ერთად გამოიყენოთ და თითოეული სიის ნაწილი უფრო დეტალურად ჩაშალოთ:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="WNmQNoj" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/WNmQNoj">
+<iframe height="300" style="width: 100%;" scrolling="no" title="ordered and unordered" src="https://codepen.io/xazy/embed/WNmQNoj?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/WNmQNoj">
   ordered and unordered</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 # დავალება:
 

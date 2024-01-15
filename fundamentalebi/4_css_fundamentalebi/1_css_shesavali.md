@@ -253,12 +253,11 @@ CSS-ში არის properties, ე.წ. სტილები, რომლ
 
 `color` სტილი ადებს ელემენტს ტექსტის ფერს, ხოლო `background-color` ადებს ელემენტს ფონის ფოტოს.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="JjzXWJQ" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/JjzXWJQ">
+<iframe height="300" style="width: 100%;" scrolling="no" title="css-intro-color-bg-color" src="https://codepen.io/xazy/embed/JjzXWJQ?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/JjzXWJQ">
   css-intro-color-bg-color</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ორივე სტილს შეუძლია მიიღოს ბევრი სახის მნიშვნელობა. ხშირად გამოიყენება ინგლისური სიტყვები, რომლებიც ფერებს აღნიშნავენ, მაგალითად `red`, `green` ან თუ გვინდა გამჭირვალე იყოს დავწერთ `transparent`. ასევე ისინი იღებენ HEX, RGB და HSL მნიშვნელობებს. მათი მაგალითები:
 
@@ -298,12 +297,11 @@ p {
 
 `text-align` ჰორიზონტალურად უცვლის ადგილს ტექსტს, იმ ელემენტში, რომელშიც ის წერია. აქვს სხვადასხვა მნიშვნელობები, როგორიცაა left, right, center, და როგორც უკვე მიხვდით, left-მარცხნივ მოათავსებს ტექსტს, right - მარჯვნივ, ხოლო center - შუაში. მაგალითად: `text-align: center;`.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="GReZWYW" data-user="xazy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xazy/pen/GReZWYW">
+<iframe height="300" style="width: 100%;" scrolling="no" title="font-styles" src="https://codepen.io/xazy/embed/GReZWYW?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/xazy/pen/GReZWYW">
   font-styles</a> by XazyProject (<a href="https://codepen.io/xazy">@xazy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 # ფონტის დამატება ინტერნეტიდან
 
