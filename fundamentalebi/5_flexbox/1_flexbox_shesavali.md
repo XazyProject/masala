@@ -50,15 +50,15 @@
 
 ფლექს კონტეინერია ყველა ელემენტი, რომელსაც ადევს სტილი `display: flex;`. ფლექს აითემია ყველა ელემენტი, რომელიც ამ ფლექს კონტეინერის შიგნითაა.
 
-![container-item](03.png)
+![container-item](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_shesavali-imgs/03.png)
 
 შესაძლოა ცოტა დამაბნეველია, მაგრამ ყველა ელემენტი შეიძლება იყოს როგორც ფლექს-კონტეინერი, ისე ფლექს-აითემი. თქვენ შეგიძლიათ დაადოთ `display:flex` ფლექს აითემს და გამოიყენოთ ფლექსბოქსი მისი შვილების განლაგების მიზნით.
 
 როგორც ვხედავთ, `display: flex` მასში მოთავსებულ ელემენტებს განლაგებას უცვლის და ჰორიზონტალურად ათავსებს. 
 
-![flex-items-as-containers](04.png)
+![flex-items-as-containers](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_shesavali-imgs/04.png)
 
 ელემენტების შექმნით, მათში ფლექს კონტეინერების და აითემების გაკეთებით ჩვენ შევძლებთ მივიღოთ კომპლექსური განლაგებები ვებგვერდზე. მომდევნო სურათი ასახავს შედეგს, რომელიც **მხოლოდ** ფლექსბოქსის გამოყენებით განლაგდა, მიენიჭა ზომა და პოზიცია. ფლექსბოქსი არის ძალიან ძლიერი ხელსაწყო.
 
-[everything-with-flexbox](05.png)
+[everything-with-flexbox](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_shesavali-imgs/05.png)
 
