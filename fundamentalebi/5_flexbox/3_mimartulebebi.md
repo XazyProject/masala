@@ -1,6 +1,6 @@
 <div className="navigation">
 - [შესავალი](#-introduction) 
-- [გაკვეთილის მიმოხილვა](#-introduction) 
+- [გაკვეთილის მიმოხილვა](#--lesson-overview) 
 - [მიმართულებები] (#-directions)
 - [დამატებითი რესურსები](#--additional-resources)
 </div>
