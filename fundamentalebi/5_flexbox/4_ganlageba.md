@@ -34,7 +34,7 @@
 
 წაუშალეთ `flex: 1` სტილი `.item` კლასს და დაამატეთ `.container` კლასს `justify-content: space-between`. ამის გაკეთება ასეთ შედეგს მოგვცემს:
 
-![space-between](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/01.png?token=GHSAT0AAAAAACMIWC6C25VT332X3JXXVYOKZNIFMLQ)
+![space-between](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/01.png)
 
 ### justify-content - ჰორიზონტალურად განლაგება
 
@@ -48,39 +48,39 @@
 
 `flex-start` მნიშვნელობა აითემებს კონტეინერის დასაწყისში განათავსებს.
 
-![flex-start](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/02.png?token=GHSAT0AAAAAACMIWC6DZTVXIKVTJPCRZKYMZNIFMVQ)
+![flex-start](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/02.png)
 
 `flex-end` მნიშვნელობა აითემებს კონტეინერის ბოლოში განათავსებს.
 
-![flex-end](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/03.png?token=GHSAT0AAAAAACMIWC6DLZKMTEJC3VK6MCAQZNIFM7A)
+![flex-end](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/03.png)
 
 `center` მნიშვნელობა აითემებს კონტეინერის ცენტრში განათავსებს.
 
-![center](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/04.png?token=GHSAT0AAAAAACMIWC6DG2EYQBR3KWLTIKGGZNIFNMA)
+![center](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/04.png)
 
 `space-between` მნიშვნელობა აითემებს თანაბრად გაანაწილებს პირველი აითემი იქნება კონტეინერის დასაწყისში, ბოლო აითემი კონტეინერის ბოლოში.
 
-![space-between](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/05.png?token=GHSAT0AAAAAACMIWC6COTNHVRCWVK5WPHRAZNIFNUQ)
+![space-between](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/05.png)
 
 `space-around` მნიშვნელობა აითემებს კონტეინერის დასაწყისში და ბოლოში თანაბარ დაშორებას მისცემს კონტეინერის კიდესგან.
 
-![space-around](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/06.png?token=GHSAT0AAAAAACMIWC6CMECO5GROH4HEJ2WSZNIFOBQ)
+![space-around](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/06.png)
 
 `space-evenly` მნიშვნელობა აითემებს კონტეინერის ცენტრში თანაბრად გადაანაწილებს ისე, რომ დაშორება ნებისმიერ ორ აითემს შორის (ასევე დაშორება კონტეინერის კიდესთან) თანაბარი იქნება.
 
-![space-evenly](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/07.png?token=GHSAT0AAAAAACMIWC6CZLFGQJRUQOCVVSHSZNIFOJQ)
+![space-evenly](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/07.png)
 
 ### align-items - ვერტიკალური განლაგება
 
 ჩვენ ვისწავლეთ ჰორიზონტალური განლაგება, ახლა გადავდეთ ვერტიკალურ განლაგებაზე. იმისათვის, რომ აითემები ვერტიკალურად განალაგოთ, უნდა გამოიყენოთ `align-items`. ახლა სცადეთ ამ ყუთების ცენტრში განლაგება `.container` კლასზე `align-items: center`-ის დადებით. მან ასეთი სახე უნდა მიიღოს:
 
-![align-items](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/08.png?token=GHSAT0AAAAAACMIWC6CCFJQM3QBNXI7CJ3OZNIFOQQ)
+![align-items](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/08.png)
 
 რადგან `justify-content` და `align-items` განკუთვნილია ჰორიზონტალური და ვერტიკალური განლაგებებისთვის კონტეინერში, მათი "საქციელი" შეიცვლება, როდესაც შევცვლით `flex-direction`-ს ამ ფლექს კონტეინერზე. მაგალითად თუ ჩვენ `flex-direction`-ს მივანიჭებთ `column` მნიშვნელობას, `justify-content` განალაგებს აითემებს ვერტიკალურად, ხოლო `align-items` ჰორიზონტალურად. დამწყებებისთვის სწორედ ესაა ყველაზე დამაბნეველი.
 
 `align-items`-ს აქვს რამდენიმე მნიშვნელობა:
 
-![align-items](https://raw.githubusercontent.com/XazyProject/masala/4cdb39094dbc785fb927fb2187384e22026c3a94/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/09.svg?token=BCLCRV74N56QPBL77MCD35DFVAV2U)
+![align-items](https://raw.githubusercontent.com/XazyProject/masala/4cdb39094dbc785fb927fb2187384e22026c3a94/fundamentalebi/5_flexbox/flexbox_ganlageba-imgs/09.svg)
 
 - flex-start: აითემები განლაგდებიან ვერტიკალური ხაზის დასაწყისში.
 - flex-end:  აითემები განლაგდებიან ვერტიკალური ხაზის დასასრულში.
