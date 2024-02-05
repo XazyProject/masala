@@ -1,20 +1,3 @@
-<div className="navigation">
-- [შესავალი](#-introduction) 
-- [მომზადება](#-preparation)
-- [anchor ელემენტი](#anchor--anchor)
-- [ლინკის ახალ ტაბში გახსნა](#----link-in-new-tab)
-- [Absolute და Relative ლინკები](#absolute--relative--absolute--relative-links)
-- [სურათები](#-pictures)
-- [მშობელი ფოლდერები](#--parent-folders)
-- [Alt ატრიბუტი](#alt--alt-attribute)
-- [სურათის ზომის ატრიბუტები](#---image-size-attribute)
-- [დავალება](#-homework)
-- [დამატებითი რესურსები](#--additional-resources)
-
-</div>
-
-<div className="content">
-
 # ლინკები და ფოტოები
 
 ## შესავალი (introduction)
@@ -266,5 +249,3 @@ Absolute და relative ლინკები, ცოტათი გაუგ�
 
 - [Links and images of HTML & CSS Is Hard](https://internetingishard.netlify.app/html-and-css/links-and-images/)
 - [Chris Coyier's When to use target="_blank" on CSS-Tricks](https://css-tricks.com/use-target_blank/)
-
-</div>

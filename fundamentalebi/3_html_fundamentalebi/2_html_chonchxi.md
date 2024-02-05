@@ -1,18 +1,3 @@
-<div className="navigation">
-- [შესავალი](#-introduction) 
-- [HTML ფაილების შექმნა](#html---creating-files-in-html) 
-- [The DOCTYPE](#the-doctype)
-- [HTML ელემენტი](#html--html-element)
-- [Head ელემენტი](#head--head-element)
-- [Meta ელემენტი](#meta--meta-element)
-- [Title ელემენტი](#title--title-element)
-- [Body ელემენტი](#body--body-element)
-- [როგორ ვნახოთ HTML ფაილები ბრაუზერში](--html---how-to-see-html-files-in-browser)
-- [HTML ჩონჩხის სწრაფად შექმნა](html----html-shortcut)
-- [დავალება](#-homework)
-</div>
-
-<div className="content">
 # HTML ჩონჩხი
 
 ## შესავალი (introduction)
@@ -174,4 +159,3 @@ VSCode-ს აქვს ჩაშენებული ფუნქცია, �
 
 </div>
 
-</div>

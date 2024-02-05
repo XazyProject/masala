@@ -1,13 +1,3 @@
-<div className="navigation">
-- [შესავალი](#-introduction) 
-- [გაკვეთილის მიმოხილვა](#--lesson-overview)
-- [განლაგება](#-alignment) 
-- [დავალება](#-homework)
-- [დამატებითი რესურსები](#--additional-resources)
-</div>
-
-<div className="content">
-
 # განლაგება
 
 ## შესავალი (introduction)
@@ -122,6 +112,4 @@
 ## დამატებითი რესურსები (additional resources)
 
 - [Flexbox Froggy](https://flexboxfroggy.com/) არის თამაში, რომელიც ფლექსბოქსში სავარჯიშოდ გამოგადგებათ.
-
-</div>
 

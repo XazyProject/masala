@@ -1,12 +1,3 @@
-<div className="navigation">
-- [შესავალი](#-introduction) 
-- [გაკვეთილის მიმოხილვა](#--lesson-overview) 
-- [მიმართულებები] (#-directions)
-- [დამატებითი რესურსები](#--additional-resources)
-</div>
-
-<div className="content">
-
 # მიმართულებები
 
 ## შესავალი (introduction)
@@ -53,5 +44,3 @@
 ## დამატებითი რესურსები (additional resources)
 
 - [ეს კონსპექტი](https://flexbox.malven.co/) დაგეხმარებათ ზუსტად და სრულად გაიაზროთ flex-ის ყველა სტილი და მნიშვნელობა.
-
-</div>

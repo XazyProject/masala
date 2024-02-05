@@ -1,18 +1,3 @@
-
-<div className="navigation">
-- [შესავალი](#-introduction) 
-- [პარაგრაფები](#-paragraphs)
-- [სათაურები](#-heading)
-- [ძლიერი, ანუ Strong ელემენტი](#--strong)
-- [Em ელემენტები](#em--em)
-- [Nesting](#nesting-nesting)
-- [HTML კომენტარები](#html--comments)
-- [VSCode შორთქათი](#vscode---shortcut)
-- [დავალება](#-homework)
-</div>
-
-<div className="content">
-
 # ტექსტთან მუშაობა
 
 ## შესავალი (introduction)
@@ -160,6 +145,3 @@ Windows და linux-ზე: <kbd>Ctrl</kbd> + <kbd>/</kbd>
 - გადახედეთ დამატებით მასალას და ახსნილი ელემენტებით შექმენით საიტი, რომელზეც გამოყენებული იქნება ყველა ეს ელემენტი. (არაა აუცილებელი ექვსივე სათაურის ელემენტის გამოყენება.) უბრალო, უშინაარსო ტექსტის ჩასასმელად შეგიძლიათ VSCode-ში, იმ ხაზზე რომელზეც გსურთ, დაწეროთ lorem და დააჭიროთ ენთერს, ან დააგენერიროთ [აქედან](https://www.lipsum.com/)  ან ქართული [ვარიანტიდან](http://omedia.ge/tools/lipsum/ ).
 
 </div>
-
-</div>
-

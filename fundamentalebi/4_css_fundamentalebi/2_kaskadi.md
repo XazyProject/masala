@@ -1,11 +1,3 @@
-<div className="navigation">
-- [შესავალი](#-introduction) 
-- [გაკვეთილის მიმოხილვა](#--lesson-overview) 
-- [CSS-ს კასკადი](#css---css-cascade)
-- [დავალება](#-homework)
-</div>
-
-<div className="content">
 #კასკადი
 
 ## შესავალი
@@ -42,9 +34,9 @@ CSS დეკლარაციას, რომელიც უფრო სპ
 ```html
 <!-- index.html -->
 
-< div class="mtavari">
-  < div class="list seqcia">წითელი ტექსტი</ div>
-</ div>
+<div class="mtavari">
+  <div class="list seqcia">წითელი ტექსტი</div>
+</div>
 ```
 
 ```css
@@ -68,9 +60,9 @@ CSS დეკლარაციას, რომელიც უფრო სპ
 ```html
 <!-- index.html -->
 
-< div class="mtavari">
-  < div class="list" id="seqcia">ლურჯი ტექსტი</ div>
-</ div>
+<div class="mtavari">
+  <div class="list" id="seqcia">ლურჯი ტექსტი</div>
+</div>
 ```
 
 ```css
@@ -94,9 +86,9 @@ CSS დეკლარაციას, რომელიც უფრო სპ
 ```html
 <!-- index.html -->
 
-< div class="mtavari">
-  < div class="list" id="seqcia">წითელი ტექსტი ყვითელ ფონზე</ div>
-</ div>
+<div class="mtavari">
+  <div class="list" id="seqcia">წითელი ტექსტი ყვითელ ფონზე</div>
+</div>
 ```
 
 ```css
@@ -166,9 +158,9 @@ h1 {
 ```html
 <!-- index.html -->
 
-< div id="mshobeli">
-  < div class="shvili"></ div>
-</ div>
+<div id="mshobeli">
+  <div class="shvili"></div>
+</div>
 ```
 
 ```css
@@ -236,4 +228,3 @@ h1 {
 
  </div>
 
- </div>
