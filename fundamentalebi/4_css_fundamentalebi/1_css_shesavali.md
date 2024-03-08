@@ -302,45 +302,6 @@ p {
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
-## ფონტის დამატება ინტერნეტიდან (adding font from internet)
-
-ჩვენ შეგვიძლია სასურველი ფონტი მივაწოდოთ ჩვენს საიტს. არსებობს ბევრი საიტი, რომელზეც ბევრი ფონტია განთავსებული, მაგალითად [Google Fonts](https://fonts.google.com/) ან ქართული ვარიანტი [ვებ-ფონტები](https://web-fonts.ge/).
-
-პირველ რიგში განვიხილოთ გუგლიდან ფონტის დამატება. მოძებნეთ ნებისმიერი ფონტი საიტზე, მაგალითად ძიებაში ჩაწერეთ `Open Sans` და შედით მის გვერდზე. აქ გამოჩნდება ამ ფონტის ბევრნაირი სტილი, დახრილი, სქელი (რამდენიმე დონის სისქე) და ა.შ. თქვენ უნდა აირჩიოთ ის ზომები, რომლებიც მოგეწონებათ.
-
-![googlefonts](https://raw.githubusercontent.com/XazyProject/masala/main/fundamentalebi/4_css_fundamentalebi/css_shesavali-imgs/01.jpg)
-
-ახლა დააკოპირეთ HTML-ში ჩასასმელი `<link>` თეგი და ჩასვით HTML ფაილში, `<head>` ნაწილში:
-
-```html
-<!-- index.html -->
-<!doctype html>
-<html>
-  <head>
-    ...
-    <link href="styles.css" rel="stylesheet" />
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,700;1,400&display=swap" rel="stylesheet">
-
-  </head>
-  <body>
-    ...
-  </body>
-</html>
-```
-
-ახლა გადადით `styles.css`-ში და ჩასვით მოცემული ფონტი `body` ელემენტში, რათა მთლიან საიტზე ყველა ტექსტს ეს ფონტი დაედოს.
-
-```css
-/* styles.css */
-
-body {
-  font-family: 'Open Sans', sans-serif;
-}
-```
-
 ### სურათის სიმაღლე და სიგანე
 
 სურათები არ არის ერთადერთი ელემენტები, რომლებსაც შეგვიძლია მივაწოდოთ სიმაღლე და სიგანე, მაგრამ ამჯერად ამაზე ვკონცენტრირდებით.
