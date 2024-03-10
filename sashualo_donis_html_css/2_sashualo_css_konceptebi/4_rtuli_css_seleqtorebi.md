@@ -253,4 +253,112 @@ ul li::marker {
 }
 ```
 
-`::before` და `::after` გვაძლევს საშუალებას დავამატოთ ელემენტები CSS-ს გამოყენებით HTML-ს გარეშე.
+`::before` და `::after` გვაძლევს საშუალებას დავამატოთ ელემენტები CSS-ს გამოყენებით HTML-ს გარეშე:
+
+```css
+div::before {
+  content: "before";
+}
+div::after {
+  content: "after";
+}
+```
+
+`::before` - ჩასვავს კონტენტს ელემენტის თავში, ხოლო `::after` ჩასვავს კონტენტს ელემენტის ბოლოში:
+
+```html
+<div>
+  before
+  <!-- დანარჩენი კოდი -->
+  after
+</div>
+```
+
+## ატრიბუტის სელექტორი
+
+როგორც ვიცით, ატრიბუტი არის ყველაფერი, რომელიც HTML-ს გამხსნელ თეგიში იწერება, მაგალითად `src='picture.jpg` ან `href="www.xazy.ge`.
+
+გადავხედო მაგალითებს:
+
+- `[attribute]` - ეს სელექტორი მონიშვნავს ყველაფერს, რასაც აქვს ატრიბუტი. 
+
+- `selector[attribute]` - ჩვენ შეგვიძლია გავაერთიანოთ ატრიბუტის სელექტორი სხვა ტიპის სელექტორებთან, მაგალითად კლასის ან ელემენტის სელექტორთან.
+
+- `[attribute="value"]` - უფრო დასაზუსტებლად, შეგვიძლია გამოვიყენოთ `=` რათა მოვნიშნოთ სპეციფიური ატრიბუტი სპეციფიური მნიშვნელობით.
+
+მათი გამოყენება:
+
+```css
+[src] {
+  /* ეს მონიშნავს ყველა ელემენტს, რომელსაც აქვს src ატრიბუტი. */
+}
+
+img[src] {
+  /* ეს მონიშნავს img ელემენტებს, რომლებსაც აქვთ src ატრიბუტი. */
+}
+
+img[src="puppy.jpg"] {
+  /* ეს მონიშნავს img ელემენტს, რომელსაც აქვს src ატრიბუტი და ატრიბუტის მნიშვნელობაა "puppy.jpg" */
+}
+```
+
+ახლა ვისწავლოთ უფრო ზოგადი ატრიბუტის სელექტორები.
+
+- `[attribute^="value"]` - `^=` ეს მონიშნავს სტრიგებს დასაწყისიდან.
+
+- `[attribute$="value"]` - `$=` ეს მონიშნავს სტრიგებს დასასრულიდან.
+
+ - `[attribute*="value"]` - `*=` ეს მონიშნავს ყველგან სტრინგის შიგნით.
+
+ უკეთ გასაგებად გამოვიყენოთ მაგალითები:
+
+ ```css
+ [class^='aus'] {
+  /* კლასებიც ატრიბუტებია.
+    ეს მონიშნავს კლასებს, რომლებიც იწყება 'aus'-ით:
+    class='austria'
+    class='australia'
+  */
+}
+
+[src$='.jpg'] {
+  /* ეს მონიშნავს ყველა src ატრიბუტს, რომელიც ბოლოვდება '.jpg'-ზე:
+  src='puppy.jpg'
+  src='kitten.jpg'
+  */
+}
+
+[for*='ill'] {
+  /* ეს მონიშნავს ყველა ატრიბუტს, რომელსაც აქვს შიგნით 'ill' ნებისმიერ ადგილას.
+  for="bill"
+  for="jill"
+  for="silly"
+  for="ill"
+  */
+}
+```
+
+## დავალება
+
+<div className="homework"> 
+
+1.  შეასრულეთ [CSS Diner](https://flukeout.github.io/), თქვენ უკვე იცით ბევრი სელექტორი, ამიტომ უმეტესობის გაკეთებას შეძლებთ.
+
+2. შექმენით HTML დოკუმენტი და თავად სცადეთ როგორ მუშაობენ ეს სელექტორები.
+</div>
+
+## დამატებითი რესურსები
+
+- [Free Code Camp](https://www.freecodecamp.org/news/css-selectors-cheat-sheet/)-ის სელექტორების "შპარგალკა".
+
+- [smashing magazine](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/)-ს სტატია სელექტორებზე.
+
+- [css-tricks](https://css-tricks.com/attribute-selectors/)-ის სელექტორების მოკლე მიმოხილვა.
+
+- [pseudo-classes vs pseudo-elements](https://www.growingwiththeweb.com/2012/08/pseudo-classes-vs-pseudo-elements.html)
+
+- [30 სელექტორი, რომელიც უნდა დაიმასოვროთ](https://webdesign.tutsplus.com/the-30-css-selectors-you-must-memorize--net-16048t)
+
+- [child და sibling სელექტორები](https://css-tricks.com/child-and-sibling-selectors/)
+
+- [როგორ გამოვიყენოთ ფსევდო კლასები](https://www.smashingmagazine.com/2011/03/how-to-use-css3-pseudo-classes/)
