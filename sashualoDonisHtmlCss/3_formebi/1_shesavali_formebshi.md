@@ -490,6 +490,9 @@ input {
 ## დავალება
 
 <div className="homework">
+- ისწავლეთ [როგორ გასტილოთ ფორმები](https://moderncss.dev/pure-css-custom-checkbox-style/), ასევე [MDN-ს დოკუმენტაცია გასტილვაზე](https://developer.mozilla.org/en-US/docs/Learn/Forms#form_styling_guides)
+-
+
 1. პერსონალური ინფორმაციის სექცია:
   - შექმენით fieldset, რომელსაც ექნება legend "პერსონალური ინფორმაცია".
   - fieldset-ის შიგნით გქონდეთ შემდეგი სექციები:
