@@ -32,6 +32,6 @@
 
 4. ინფუთებს ჩვეულებრივ აქვთ ძალიან ღია ფერი, ეს თქვენით შეცვალეთ, ხოლო პაროლის ინფუთს უნდა ჰქონდეთ `error` კლასი.
 
-5. test test test test test
+5. test test test test test test6
  
 </div>
