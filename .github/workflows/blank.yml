@@ -1,0 +1,17 @@
+name: Update Xazy on Masala Update
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger_xazy_update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger update in Xazy
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.MASALA_TOKEN }}
+          repository: XazyProject/xazy
+          event-type: masala-updated
