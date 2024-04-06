@@ -67,7 +67,11 @@ button:hover {
 
 ## დავალება
 
+<div className="homework">
+
 - წაიკითხეთ [MDN-ს არტიკლი](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions). განიხილეთ კაგად მოყვანილი მაგალითები და თქვენითაც დაწერეთ ტრანზიციები.
 - წაიკითხეთ [როგორ გააკეთოთ მაღალი პერფორმანსის მქონე ანიმაციები.](https://web.dev/articles/animations-guide)
 - გადახედეთ [ინტერაქციულ ტრანზიციების გაკვეთილს](https://www.joshwcomeau.com/animation/css-transitions/)
 - [როგორ მოვახდინოთ ტრანზიციებისგან გამოწვეული პრობლემები](https://dzhavat.github.io/2021/02/18/debugging-layout-repaint-issues-triggered-by-css-transition.html)
+
+</div>
