@@ -111,7 +111,7 @@
 
 1. [წაიკითხეთ და თან დაწერეთ კოდი](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) MDN-ს სტატიიდან.
 
-2. გადადით `animation` ფოლდერში, რომელიც ჩვენს [CSS დავალებების რეპოზიტორიაშია], გადაიკითხეთ ყველა README ფაილი სანამ დაიწყებთ დავალებების გაკეთებას ამ თანმიმდევრობით:
+2. გადადით `animation` ფოლდერში, რომელიც ჩვენს [CSS დავალებების რეპოზიტორიაშია](https://github.com/XazyProject/css-davalebebi), გადაიკითხეთ ყველა README ფაილი სანამ დაიწყებთ დავალებების გაკეთებას ამ თანმიმდევრობით:
   - `01-button-hover`
   - `02-pop-up`
   - `03-dropdown-menu`
