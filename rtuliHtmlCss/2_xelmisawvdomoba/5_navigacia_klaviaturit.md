@@ -25,7 +25,6 @@
 ```
 
 ```javascript
-// We also need to manually add in event handling for both mouse and keyboard events.
 // ჩვენ ასევე დავჭირდება ხელით გავწეროთ ჯავასკრიპტის კოდი 
 // მაუსის და კლავიატურის ივენთების ჰენდლინგისთვის.
 const buttons = document.querySelectorAll('.button');

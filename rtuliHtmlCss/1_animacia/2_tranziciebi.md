@@ -26,7 +26,7 @@ CSS ტრანზიციები საშუალებას გვა�
 
 ```css
 button {
-  /* ... other CSS properties ... */
+  /* ... სხვა CSS სტილები ... */
   transition-property: background-color;
   transition-duration: 1s;
   transition-timing-function: ease-out;
